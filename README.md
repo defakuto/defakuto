@@ -6,6 +6,7 @@
 - **Live** each day like it's your last drive. 
 - Unforgettable **adventures** ahead!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defakuto&layout=compact&theme=transparent )](https://github.com/defakuto) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=defakuto&show_icons=true&theme=transparent )](https://github.com/defakuto)
 
 ------
 
